@@ -1,0 +1,7 @@
+Half Dollar Coins: 4
+Dollar Coins: 4
+Quarters: 7
+Dimes: 40
+Nickels: 26
+Pennies: 41
+Total Sum: $11.46

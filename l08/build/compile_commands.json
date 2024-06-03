@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/satvik/Library/CloudStorage/GoogleDrive-1795710@fcpsschools.net/My Drive/12th Grade/CV1/l08/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin21-g++-12  -isystem /opt/homebrew/Cellar/opencv/4.6.0/include/opencv4 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -o CMakeFiles/l083.dir/l083.cpp.o -c \"/Users/satvik/Library/CloudStorage/GoogleDrive-1795710@fcpsschools.net/My Drive/12th Grade/CV1/l08/l083.cpp\"",
+  "file": "/Users/satvik/Library/CloudStorage/GoogleDrive-1795710@fcpsschools.net/My Drive/12th Grade/CV1/l08/l083.cpp"
+}
+]

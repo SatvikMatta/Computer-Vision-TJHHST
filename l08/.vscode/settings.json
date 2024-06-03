@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "complex": "cpp",
+        "iosfwd": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "__hash_table": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "stack": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}

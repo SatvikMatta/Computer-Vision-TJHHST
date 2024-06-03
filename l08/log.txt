@@ -1,0 +1,28 @@
+The plane defined by (x-a)*n =0 is:
+  a = (700.5, 200.1, 100.12)
+  n = (1, 2, 3.12)
+The eye e is: 
+  e = (1000, 900.23, 100.116)
+Vertices I used to create he 2d coordinate system and their projections are: 
+v1 = (150, -150, -150)
+v2 = (-150, -150, -150)
+v3 = (150, -150, 150)
+
+pv1 = (612.744, 421.75, -13.836)
+pv2 = (515.059, 457.361, -5.355)
+pv3 = (483.049, 261.504, 130.454)
+
+The 2 vectors a and b that are in plane are:
+a = pv1-pv2 = (97.6841, -35.6116, -8.48102)
+b = pv3-pv1 = (-129.694, -160.246, 144.29)
+
+The w1 and w2 obtained from a and b (these now are perpendicular and of magnitude 1) are:
+w1 = (0.816384, -0.568315, 0.102643)
+w2 = (-0.515411, -0.636824, 0.573416)
+
+The center of the cube in first frame and its projection are:
+center  = (1100.5,500.1,200.1)
+p0 = (360,469)
+
+I Finished 8.3!
+This Log File is wayyy to overcomplicated for me to continue implementing it. Srry :(

@@ -1,0 +1,7 @@
+Pennies: 68
+Nickels: 39
+Dimes: 26
+Quarters: 1
+Half Dollars0
+Dollars: 14
+Total value: $19.48

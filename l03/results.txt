@@ -1,0 +1,12 @@
+Fully Recursive: 
+The closest pair of points is: 
+(0.5,0.5)
+(0.5,0.5)
+The distance between them is: 3.04843e-14
+Time: 0.170551
+Randomized Algorithm: 
+The closest pair of points is: 
+(0.5,0.5)
+(0.5,0.5)
+The distance between them is: 2.9546e-14
+Time: 0.329661
